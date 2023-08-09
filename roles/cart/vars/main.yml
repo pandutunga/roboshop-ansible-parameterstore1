@@ -1,0 +1,4 @@
+component: cart
+#load_schema: false - instead of this we have declared it in defaults under common.
+
+
